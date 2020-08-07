@@ -25,13 +25,13 @@ export default () => {
           <Nav.Link className="ml-2" as={Link} to="/blog" title="Blog">
             Blog
           </Nav.Link>
-          <Nav.Link className="ml-2" as={Link} to="/about" title="About">
+          <Nav.Link className="ml-2" as={Link} to="/about" title="Chi sono">
             About
           </Nav.Link>
-          <Nav.Link className="ml-2" as={Link} to="/projects" title="Projects">
+          <Nav.Link className="ml-2" as={Link} to="/projects" title="Progetti">
             Projects
           </Nav.Link>
-          <Nav.Link className="ml-2" as={Link} to="/resume" title="Resume">
+          <Nav.Link className="ml-2" as={Link} to="/resume" title="Curriculum">
             Resume
           </Nav.Link>
           <Form className="ml-3 my-auto">
