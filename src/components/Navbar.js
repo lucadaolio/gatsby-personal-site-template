@@ -26,7 +26,7 @@ export default () => {
             Blog
           </Nav.Link>
           <Nav.Link className="ml-2" as={Link} to="/about" title="Chi sono">
-            About
+            Chi sono
           </Nav.Link>
           <Nav.Link className="ml-2" as={Link} to="/projects" title="Progetti">
             Projects
