@@ -75,9 +75,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `John Doe's Personal Site`,
-        short_name: `J.Doe`,
-        description: `This is my personal site.`,
+        name: `Sito personale di Luca Daolio`,
+        short_name: `Luca Daolio`,
+        description: `Il sito personale di Luca Daolio: articoli, lavori svolti e curiosità.`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
