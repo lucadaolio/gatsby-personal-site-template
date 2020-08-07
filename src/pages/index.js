@@ -37,26 +37,15 @@ export default ({ data }) => {
           </h1>
           <p>
             <i>
-              {occupation} by day,&nbsp;
-              {dark ? `Imperial enforcer by night` : `Rebel scum by night`}
+              {occupation} di giorno,&nbsp;
+              {dark ? `Difensore imperiale di notte` : `Feccia ribelle di notte`}
             </i>
           </p>
         </Container>
         <hr className="my-3 w-25" />
         <div className="d-md-inline-flex icons-container">
           <a
-            href="https://www.github.com"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <FontAwesomeIcon
-              icon={["fab", "github"]}
-              className="icons github"
-              title="Github"
-            />
-          </a>
-          <a
-            href="https://linkedin.com"
+            href="https://linkedin.com/in/luca-daolio"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -67,29 +56,7 @@ export default ({ data }) => {
             />
           </a>
           <a
-            href="https://www.freecodecamp.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <FontAwesomeIcon
-              icon={["fab", "free-code-camp"]}
-              className="icons fcc"
-              title="FreeCodeCamp"
-            />
-          </a>
-          <a
-            href="https://www.hackerrank.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <FontAwesomeIcon
-              icon={["fab", "hackerrank"]}
-              className="icons hr"
-              title="Hackerrank"
-            />
-          </a>
-          <a
-            href="mailto:johndoe@gmail.com"
+            href="mailto:lucadaolio.lavoro@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >
