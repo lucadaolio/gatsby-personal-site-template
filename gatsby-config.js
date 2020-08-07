@@ -7,16 +7,16 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `John Doe`,
-    author: `John Doe`,
-    firstName: `John`,
-    lastName: `Doe`,
-    description: `John Doe's personal site`,
-    occupation: `Software Engineer`,
-    keywords: [`John`, `Doe`, `Personal`, `Blog`, `Resume`, `Projects`, `Work`],
+    title: `Luca Daolio`,
+    author: `Luca Daolio`,
+    firstName: `Luca`,
+    lastName: `Daolio`,
+    description: `Sito personale di Luca Daolio`,
+    occupation: `Marketing Manager`,
+    keywords: [`Luca`, `Daolio`, `Personale`, `Blog`, `Marketing digitale`, `Project Management`, `Marketing B2B`],
     siteUrl:
       process.env.URL || process.env.DEPLOY_URL || `http://localhost:8000`,
-    unemployed: true,
+    unemployed: false,
     designations: [
       `Coding Monkey`,
       `Jedi Master`,
